@@ -169,5 +169,9 @@ The tool will guide you to complete the process manually in the browser window.
 
 <div align="center" style="margin-top: 2rem">
   <strong>Developed with ❤️ by Nebulous</strong><br>
-  [![GitHub](https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sahil-Harchandani/DigitalDetox)
+<div align="center">
+  <a href="https://github.com/Sahil-Harchandani/DigitalDetox">
+    <img src="https://img.shields.io/badge/View_Project_on_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
 </div>
+
