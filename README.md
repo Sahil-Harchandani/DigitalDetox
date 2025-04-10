@@ -20,7 +20,19 @@
 2. 💾 Helps you download your data (photos, posts, etc.)
 3. 🗑️ Guides you through permanent deletion
 
-![Demo: Finding Accounts](https://placehold.co/800x400/EEE/31343C?text=Account+Detection+Process "See which accounts you have")
+<div align="center">
+
+### A Glimpse into DigitalDetox
+
+<!-- Image 1 -->
+<img src="https://github.com/user-attachments/assets/59dad1f2-6cb2-49cb-bc2c-313b8b9c3b8f" alt="Image 1" width="550" style="border-radius: 8px; margin: 10px;"/>
+
+<!-- Image 2 -->
+<img src="https://github.com/user-attachments/assets/f7625cf6-acde-40f1-adb7-5d0c1ac1e488" alt="Image 2" width="550" style="border-radius: 8px; margin: 10px;"/>
+
+<p><em>These visuals provide an overview of how the DigitalDetox tool operates and interacts with its users.</em></p>
+
+</div>
 
 ---
 
